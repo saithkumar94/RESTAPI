@@ -1,5 +1,5 @@
 package com.example.demo;
-
+/*This is Beer Class*/
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
